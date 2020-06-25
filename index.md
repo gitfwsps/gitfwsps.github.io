@@ -7,3 +7,4 @@ Juri Schiwago is the main character described in a novel by Boris Pasternak. The
 * married
 + great
 > Love is important to enable existence
+<img src="https://moviepilot.de/movies/doktor-schiwago"/>. 
